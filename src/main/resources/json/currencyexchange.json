@@ -1,0 +1,62 @@
+[
+  {
+    "currency": "USD",
+    "exchangeRate": 1.186,
+    "country": "United States",
+    "description": "US dollar"
+  },
+  {
+    "currency": "HUF",
+    "exchangeRate": 366.83,
+    "country": "Hungary",
+    "description": "Hungarian forint"
+  },
+  {
+    "currency": "CZK",
+    "exchangeRate": 26.150,
+    "country": "Czech Republic",
+    "description": "Czech koruna"
+  },
+  {
+    "currency": "JPY",
+    "exchangeRate": 130.14,
+    "country": "Japan",
+    "description": "Japanese yen"
+  },
+  {
+    "currency": "GBP",
+    "exchangeRate": 0.85835,
+    "country": "Great Britan",
+    "description": "Pound sterling"
+  },
+  {
+    "currency": "CAD",
+    "exchangeRate": 1.4975,
+    "country": "Canada",
+    "description": "Canadian dollar"
+  },
+  {
+    "currency": "AUD",
+    "exchangeRate": 1.5394,
+    "country": "Australia",
+    "description": "Australian dollar"
+  },
+  {
+    "currency": "NZD",
+    "exchangeRate": 1.6633,
+    "country": "NewZeland",
+    "description": "New Zeland dollar"
+  },
+  {
+    "currency": "INR",
+    "exchangeRate": 86.7260,
+    "country": "India",
+    "description": "Indian rupee"
+  },
+  {
+    "currency": "SGD",
+    "exchangeRate": 17.8505,
+    "country": "Singapore",
+    "description": "Singapore dollar"
+  }
+]
